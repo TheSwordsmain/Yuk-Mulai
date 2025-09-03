@@ -1,0 +1,401 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+img {
+  vertical-align: middle;
+  max-width: 100%;
+  height: auto;
+}
+body {
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+.img0 {
+  background-color: #eaf5eb;
+  padding: 10px;
+  border-radius: 50%;
+}
+.top {
+  padding: 20px;
+  background-image: url(images/Ellipse\ 2.png);
+  background-position: top right;
+  background-repeat: no-repeat;
+  font-size: 25px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.topmiddle {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  justify-content: center;
+  gap: 200px;
+}
+.h1 {
+  max-width: 450px;
+}
+.p2 {
+  width: 500px;
+}
+.fleximages {
+  display: flex;
+  align-items: center;
+}
+.btn {
+  color: white;
+  background-color: #079911;
+  border: none;
+  padding: 13px 10px;
+  font-size: 18px;
+  border-radius: 20px;
+  text-transform: capitalize;
+  margin: 0 10px;
+}
+.btn2 {
+  background-color: transparent;
+  border: 2px solid black;
+  color: black;
+}
+.p2 {
+  margin: 16px 0;
+}
+.flexer {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  margin-bottom: 80px;
+}
+.box {
+  display: flex;
+  align-items: center;
+}
+.h2 {
+  font-size: 33px;
+  text-align: center;
+  margin: 20px 0;
+}
+.p4 {
+  margin-left: 10px;
+}
+.img3 {
+  font-size: 160px;
+  background-color: #eaf5eb;
+  padding: 20px;
+  border-radius: 50%;
+}
+.p3 {
+  text-align: center;
+  margin: 30px 0;
+  color: silver;
+}
+.flexer2 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.texts2 {
+  width: 38%;
+}
+.figure3 {
+  width: 48%;
+}
+.p6 {
+  margin: 20px 0;
+  width: 330px;
+  color: silver;
+}
+.btn4 {
+  border: none;
+  font-size: 20px;
+  background-color: white;
+  border-radius: 15px;
+  padding: 5px 8px;
+}
+.div {
+  display: flex;
+  font-size: 20px;
+  align-items: center;
+  background-color: #079911;
+  padding: 3px;
+  width: 200px;
+  border-radius: 15px;
+  gap: 2px;
+  margin: 15px auto;
+}
+.p6 {
+  text-align: center;
+}
+.btn5 {
+  background-color: black;
+  color: white;
+}
+.prices {
+  background-color: #eaf5eb;
+  width: 700px;
+  border-radius: 35px;
+  padding: 30px;
+  margin: 25px auto;
+}
+.article {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}
+.miniflexer {
+  display: flex;
+  align-items: flex-end;
+  margin: 15px 0;
+}
+.p7 {
+  color: black;
+  font-size: 35px;
+}
+.p8 {
+  color: black;
+}
+.pp {
+  color: #079911;
+}
+.bt {
+  display: block;
+  margin: 0 auto;
+}
+.span3 {
+  color: gray;
+  margin: 10px 0;
+}
+.bx {
+  border: 3px solid black;
+  border-radius: 20px;
+  padding: 10px;
+} 
+.bx2 {
+  border-color: #079911;
+}
+.title2 {
+  text-align: center;
+}
+.p6 {
+  text-align: center;
+  margin: 8px auto; 
+}
+.enity {
+  width: 10px;
+  height: 10px;
+  background-color: silver;
+  border-radius: 100%;
+}
+.entities {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.green {
+  box-sizing: content-box;
+  background-color: #079911;
+  border: 1px solid gray;
+}
+.img8 {
+  width: 5%;
+  height: 5%;
+  background-color: #eaf5eb;
+  padding: 10px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+.wrap {
+  display: flex;
+  justify-content: center;
+  margin: 100px 0;
+}
+.texts4 {
+  font-size: 20px;
+  width: 38%;
+}
+.p9 {
+
+  color: silver;
+}
+.title3 {
+  width: 28%;
+  font-size: 40px;
+}
+.sp {
+  color: #079911;
+  font-size: 19px;
+  padding-top: 10px;
+}
+.spa {
+  display: block;
+  margin: 15px 0;
+}
+.title5 {
+  font-size: 32px;
+  text-align: center;
+  max-width: 500px;
+}
+.p10 {
+  color: silver;
+  width: 500px;
+  text-align: center;
+  margin: 10px 0;
+}
+.btn {
+  margin: 0 10px;
+}
+.btnn, .title5, .p10 {
+  display: block;
+  margin: 20px auto;
+}
+.bgimage {
+  background-color: #eaf5eb;
+  width: 900px;
+  padding: 40px 0;
+  background-image: url(images/Group\ 25.png);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: 800px;
+  border-radius: 50px;
+  margin: 50px auto;
+}
+.span {
+  color: #079911;
+}
+.nightmode {
+  background-color: #eaf5eb;
+  border-radius: 26px;
+  width: 65px;
+  padding: 2px;
+}
+.circle {
+  width: 30px;
+  height: 30px ;
+  background-color: white;
+  border: #079911 2px solid;
+  border-radius: 100%;
+  transition: transform 0.3s ease-in-out;
+}
+.nightmode:hover {
+  background-color: #079911;
+}
+.littleflex {
+  display: flex;
+  align-items: center; gap: 10px;
+}
+.p {
+  margin-bottom: 8px;
+}
+.sspan {
+  text-transform: capitalize;
+  display: block;
+  margin-bottom: 5px;
+}
+.iconflexer {
+  display: flex;
+  justify-content: space-evenly;
+  width: 40%;
+  align-items: center;
+}
+.img44 {
+  /* background-color: #eaf5eb; */
+  padding: 6px;
+  border: #079911 2px solid;
+  border-radius: 50%;
+  margin: 0 8px;
+}
+.iflexer{
+  display: flex;
+  justify-content: space-evenly;
+  width: 50%;
+}
+.mainiconflexer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-evenly;
+}
+.footer {
+  padding: 20px 0;
+  font-size: 20px;
+  color: silver;
+}
+.p {
+  text-align: justify;
+}
+.all {
+  max-width: 95%;
+  margin: 15px auto;
+  box-shadow: 15px 15px 10px #eaf5eb, -15px -15px 10px #eaf5eb;
+}
+/* Default light mode */
+body {
+  background-color: white;
+  color: black;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Dark mode */
+body.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
+/* Nightmode container */
+.nightmode {
+  width: 60px;
+  height: 30px;
+  background-color: gray;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  padding: 2px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+/* Circle inside nightmode */
+.circle {
+  width: 25px;
+  height: 25px;
+  background-color: white;
+  border-radius: 50%;
+  transition: transform 0.3s;
+}
+
+/* Move circle when dark mode is active */
+.dark-mode .circle {
+  transform: translateX(30px);
+  background-color: yellow;
+}
+
+.title5 {
+  color: black;
+}
+.title2 {
+  color: black;
+}
+.h3 {
+  color: black;
+}
+.dark-mode img {
+  background-color: #eaf5eb;
+  border-radius: 50%; /* Adjust for softer corners */
+  padding: 5px; /* Adds some spacing around the image */
+  transition: background-color 0.3s ease, border-radius 0.3s ease;
+}
+.dark-mode img.ig {
+  background-color: transparent;
+  border-radius: 0;
+}
+.dark-mode button.btn2 {
+  border: 2px solid white;
+  color: white;
+}
+.dark-mode button.btn4 {
+  border: 2px solid white;
+  color: black;
+}
